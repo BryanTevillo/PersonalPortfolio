@@ -1,0 +1,9 @@
+body {
+  background-color: cornsilk;
+}
+
+#imgPersonal {
+  border-radius: 50%;
+  height: 190px;
+  width: 200px;
+}
