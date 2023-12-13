@@ -1,5 +1,9 @@
 body {
   background-color: cornsilk;
+  background-image: url("../source/backgroud.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 #imgPersonal {
