@@ -1,6 +1,7 @@
 body {
   background-color: #1e0549;
   text-align: center;
+  cursor: grab;
 }
 
 #imgPersonal {
@@ -37,4 +38,10 @@ div {
 
 #u-list {
   list-style-type: square;
+}
+
+a:hover {
+  color: #1e0549;
+  font-size: 20px;
+  border: white 2px dotted;
 }
